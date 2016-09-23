@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">6 Week Fitness Workout</string>
+    <string name="home_welcome">Welcome !</string>
+    <string name="home_workouts">Workouts</string>
+    <string name="home_diet">Diet plan</string>
+    <string name="home_about">About</string>
+</resources>
