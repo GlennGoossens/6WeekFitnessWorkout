@@ -4,4 +4,13 @@
     <string name="home_workouts">Workouts</string>
     <string name="home_diet">Diet plan</string>
     <string name="home_about">About</string>
+    <string name="about_title">About</string>
+    <string name="about_p1">Hello, welcome to the about page. The '6 Week Fitness Workout' app will help you gain muscles and confidence in the gym.
+        By following this 6 week program, you'll get a step closer to the perfect beach body. This is only the muscle-gaining part for an awesome beach body. The other part, that consists of
+    cardio and getting lean, will be out as soon as possible. Both parts will be united in this one app.</string>
+    <string name="about_p2">I'm not a trainer nor an experienced gymlad. Therefor I won't ask money for anything I publish. I made this app to make it myself easier to maintain fitnissing and
+    workout in a structured way. All the exercises and knowledge can be found on the internet, so feel free to learn. This 6 week program can be found in "Men's Fitness" magazine. All the
+    pictures used in this app can be found on the internet at workoutlabs.</string>
+    <string name="about_footer">&#169; Glenn Goossens 2016</string>
+
 </resources>
